@@ -1,18 +1,47 @@
-# React + Vite
+# React Mini Projects
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains various mini-projects built with React. These projects help showcase the use of core React concepts, from state management to UI design.
 
-Currently, two official plugins are available:
+## Projects
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 1. Counter
+A simple React app that increments and decrements a number using buttons.
 
-## Expanding the ESLint configuration
+### 2. ToDo
+A task management app where users can add, edit, and delete tasks.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 3. Form Validation
+A form that validates user input (e.g., checking if fields are empty).
 
----
+### 4. Accordions
+An interactive accordion that allows users to toggle between sections.
 
-# React-projects-beginner-
+### 5. Calculator
+A basic calculator that performs simple arithmetic operations.
 
-My practice projects
+### 6. Color Toggler
+A component that changes the background color when toggled.
+
+### 7. Ecommerce Advance Filtering
+An e-commerce filtering system to sort products by price, category, etc.
+
+### 8. Meals API
+Fetches meal data from an API and displays recipes with ingredients.
+
+### 9. Search Icons
+A search bar that filters and displays icons based on input.
+
+### 10. Testimonials
+A carousel displaying user testimonials with smooth transition effects.
+
+## Getting Started
+
+### Prerequisites
+
+You need Node.js and npm installed to run these projects locally.
+
+### Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Akshay448591/Mini-Practice-Projects.git
