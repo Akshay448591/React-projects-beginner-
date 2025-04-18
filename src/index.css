@@ -1,0 +1,46 @@
+/* Default Background for Main Page */
+.app.default {
+  background-color: #f9f9f9; /* Default color */
+  color: #333;
+  text-align: center;
+  padding: 2rem;
+}
+
+/* Project-Specific Backgrounds */
+.app.project-counter {
+  background-color: #d0e8f2; /* Light blue for Counter project */
+}
+
+.app.project-todo {
+  background-color: #e0f7fa; /* Light cyan for Todo project */
+}
+
+/* Add more classes for other projects */
+
+/* Project List Styling */
+.project-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+button {
+  padding: 0.8rem 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  background-color: #f2f2f2;
+  transition: background 0.2s;
+}
+
+button:hover {
+  background-color: #ddd;
+}
+
+/* For Project Content Wrapper */
+.project-wrapper {
+  padding: 2rem;
+}
