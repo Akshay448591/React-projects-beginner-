@@ -9,14 +9,14 @@ const App = () => {
 {/*       <Counter/> */}
 {/*       <ToDo/> */}
 {/*       <FormValidation/> */}
-{/*       Accordions */}
-{/*       Calculator */}
-{/*       Color Toggler */}
-{/*       Ecommerce Advance Filtering */}
-{/*       FormValidation */}
-{/*       MealsApi */}
-{/*       SearchIcons */}
-{/*       Testomonials */}
+{/*       <Accordions />*/}
+{/*       <Calculator />*/}
+{/*       <Color Toggler/> */}
+{/*       <Ecommerce Advance Filtering/> */}
+{/*       <FormValidation/> */}
+{/*       <MealsApi/> */}
+{/*       <SearchIcons/> */}
+{/*       <Testomonials />*/}
     </div>
   )
 }
