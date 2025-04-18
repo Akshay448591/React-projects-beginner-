@@ -5,9 +5,18 @@ import FormValidation from './Projects/FormValidation/FormValidation'
 const App = () => {
   return (
     <div>
-      {/* <Counter/> */}
-      {/* <ToDo/> */}
-      <FormValidation/>
+{/*       you have to uncomment the project you want to view */}
+{/*       <Counter/> */}
+{/*       <ToDo/> */}
+{/*       <FormValidation/> */}
+{/*       Accordions */}
+{/*       Calculator */}
+{/*       Color Toggler */}
+{/*       Ecommerce Advance Filtering */}
+{/*       FormValidation */}
+{/*       MealsApi */}
+{/*       SearchIcons */}
+{/*       Testomonials */}
     </div>
   )
 }
